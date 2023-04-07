@@ -48,7 +48,6 @@
 | ----------- | ------------------ |-------|
 | <b>Repl.it<b>   | - <b><i>Fastest Deloy.<br> - Faster than Railway / Koyeb. <br> - 24*7 work. <br> - No Crash and auto reboot.<br> - 100% Commands work.<b><i> | <b><i> - No Cons. Just Deploy and Have fun.<b><i>
 | <b>Railway<b>    | - <b><i>Fast Deloy.<br> - Faster than Koyeb. <br> - 24*7 work. <br> - Auto Reboot on Crash.<br> - 100% Commands work.<b><i>    | <b><i> - Requires a 6 months old GitHub Account to verify.<br> - 500 hours per monthlyusage.<br> - Crashing Due to 500 mb limited RAM. <br> - Not suitable for newly joined users.<b><i>
-| <b>Koyeb<b>   | - <b><i>24*7 work. <br> - Less Crash and auto reboot.<br> - 100% Commands work<b><i> | <b><i> - Now Credit Card required to create account.<br> - Slowest deploy ( Takes Upto 7-8 minutes ).<br> - Slowest work compared to Repl.it / Railway.<br> - Not suitable for newly joined users.<b><i>
 | <b>Heroku ( Not Compatible )<b> | - <b><i>Fastest Deloy.<br> - Faster than Railway / Koyeb. <br> - 24*7 work. <br> - No Crash and auto reboot.<br> - 100% Commands work.<b><i> |<b><i> - No Cons. Just Deploy and Have fun.<b><i>|
     
 [![Dinuwa Official²⁰²³BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740804536) 
@@ -67,27 +66,33 @@
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/Dinuwa-Official-USER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V2)
 ---------
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo (Don't forget to give a star)
-- 2. ***Get [SESSION-ID](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT?output%20only=1&lite=1#thumbnail.jpg) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 2. ***Get [SESSION-ID](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
 
 ## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT?output%20only=1&lite=1#thumbnail.jpg)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+# 
+
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
+* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)  
 ---------
 
-## ```USER RAILWAY```
+## ```DEPLOY IN RAILWAY```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/dinuwah/Dinuwa-Official-USER-BOT)
+## ```DEPLOY IN REPLIT```
+[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
+
+## ```DEPLOY IN MOGENIUS```
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
 ## How to deploy in replit
 
